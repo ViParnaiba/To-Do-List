@@ -1,0 +1,43 @@
+:root{
+	--primary color: blueviolet;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgb(0, 0, 0);
+	color: antiquewhite;
+} 
+.main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.container{
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	padding: 24px;
+}
+.form{
+	margin-block: 12px;
+
+}
+ul li{
+	list-style-type: none;
+	margin-bottom: 6px;
+	display: contents;
+	display: flex;
+	justify-content: space-between;
+}
+button{
+	background-color: blueviolet;
+	color:white;
+	border:none;
+	padding: 8px 16px;
+	cursor: pointer;
+}
