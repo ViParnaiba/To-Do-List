@@ -1,6 +1,6 @@
 Projeto: To Do List
 
-- Especificações Técnicas O
+- Especificações Técnicas 
 
 Desenvolver uma aplicação web simples que permita ao usuário registrar seus afazeres e visualizar um resumo diario. Esse foi meu primeiro projeto utilizando HTML E CSS, focado em aplicar conceitos fundamentais de front-end.
 
